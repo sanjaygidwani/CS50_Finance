@@ -8,4 +8,4 @@
 
 • It also uses Flask (Microframework for python based on Werkzeug, Jinja2) and Jinja (Full featured template engine support, and an optional integrated sandboxed execution environment).
 
-``Copyright © 2017 sgidwani96(Sanjay Gidwani). All rights reserved.``
+``Copyright © 2017 Sanjay Gidwani``
